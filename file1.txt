@@ -1,1 +1,2 @@
 There is now a text inside this txt file!
+And it is now updated as well!
